@@ -1,0 +1,18 @@
+.card {
+  margin: 80px auto;
+  width: 300px;
+  padding: 20px 10px;
+  background-color: teal;
+  color: #fff;
+}
+.card__img {
+  width: 100%;
+}
+.card__texts {
+}
+.card__title {
+}
+.card__paragraph {
+}
+.card__link {
+}
