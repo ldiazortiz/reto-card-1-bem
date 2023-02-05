@@ -25,6 +25,10 @@
   padding: 1em 0;
   text-align: center;
 }
+
+.card__link--full {
+  width: 100%;
+}
 /* 
 .card__texts {
 }
